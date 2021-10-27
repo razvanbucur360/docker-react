@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          in final merge cum trebuieeeeeeeeyeyeye
+          ba ati innebunit dasdsaadaareq?
         </p>
         <a
           className="App-link"
